@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+    "PG_USER": "bhargavbachina",
+    "PG_HOST": "localhost",
+    "PG_DATABASE": "bhargavbachina",
+    "PG_DIALECT": "postgres"
+  },
+  "ConnectionStrings": {},
+  "Host": {
+    "CORS": "*"
+  }
+}
